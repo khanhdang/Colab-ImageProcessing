@@ -6,3 +6,4 @@ Image processing using google colab
 1. Canny-edge-detection.ipynb: edge detection using canny
 2. Haris corner detection
 3. ORB object detection algorithm
+4. Face detection using haar cascade
